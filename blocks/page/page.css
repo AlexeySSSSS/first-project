@@ -1,0 +1,10 @@
+.page {
+  min-width: 320px;
+  display: block;
+  font-family: 'Inter', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #2A2C2F;
+  margin: 0 auto;
+  color: white;
+}
