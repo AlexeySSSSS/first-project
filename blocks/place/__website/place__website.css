@@ -1,22 +1,11 @@
 .place__website {
-    padding-top: 30px;
-    margin-bottom: 48px;
+    margin-top: auto;
     max-width: 456px;
-}
-
-@media screen and (max-width: 1022px) {
-    .place__website {
-        padding-top: 0;
-    }
 }
 
 @media screen and (max-width: 766px) {
     .place__website {
-        min-width: 288px;
-        position: absolute;
-        top: 67px;
-        left: 16px;
-        margin-right: auto;
-        margin-bottom: 0;
+        margin-right: 16px;
+        margin-left: 16px;
     }
 }

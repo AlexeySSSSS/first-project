@@ -1,9 +1,0 @@
-.place__website_location_up {
-    padding-top: 106px;
-}
-
-@media screen and (max-width: 1022px) {
-    .place__website_location_up {
-        padding-top: 0px;
-    }
-}
