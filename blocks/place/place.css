@@ -6,10 +6,9 @@
     margin-bottom: 80px;
 }
 
-.place:nth-child(5) {
+.place:last-child {
     margin-bottom: 0;
 }
-
 
 @media screen and (max-width: 1279px) {
     .place {

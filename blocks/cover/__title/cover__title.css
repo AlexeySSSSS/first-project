@@ -5,6 +5,8 @@
     line-height: 76px;
     margin-left: 312px;
     margin-right: 312px;
+    margin-top: 0;
+    margin-bottom: 0;
     text-align: center;
     padding-top: calc(100% - 939px);
 }
